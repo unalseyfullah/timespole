@@ -1,0 +1,13 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    RewriteCond %{QUERY_STRING} ^page_id=([0-9]*)&category=(.*)$
+    RewriteRule ^(.*)$ /%1/%2? [R=301,L]
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.php [L]
+</IfModule>
+# END WordPress

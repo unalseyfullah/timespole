@@ -1,0 +1,29 @@
+wp-config.php
+lystimes_wp veritabaný
+lystimes_wp kullanýcý
+KadirSeyfo8790 þifre
+
+/*define('RELOCATE',true);
+define('WP_HOME','http://gitpag.ch');
+define('WP_SITEURL','http://gitpag.ch');*/
+
+functions.php
+/*
+update_option( 'siteurl', 'http://www.timespole.com' );
+update_option( 'home', 'http://www.timespole.com' );
+*/
+
+wp-config.php
+gitpag_ch_wordpress_e
+gitpa_wordpres_a
+vH6r50s*
+
+/*define('RELOCATE',true);
+define('WP_HOME','http://gitpag.ch');
+define('WP_SITEURL','http://gitpag.ch');*/
+
+functions.php
+/*
+update_option( 'siteurl', 'http://gitpag.ch' );
+update_option( 'home', 'http://gitpag.ch' );
+*/
